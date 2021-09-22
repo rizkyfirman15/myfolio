@@ -179,7 +179,7 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/chexoLogo.png"),
+      image: require("./assets/images/arturLogo.png"),
       projectName: "Artur.id",
       // projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
