@@ -180,12 +180,12 @@ const bigProjects = {
   projects: [
     {
       image: require("./assets/images/chexoLogo.png"),
-      projectName: "FD Chexo Studio",
+      projectName: "Artur.id",
       // projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://fd-chexo.com/"
+          url: "https://artur.id/"
         }
         //  you can add extra buttons here.
       ]
