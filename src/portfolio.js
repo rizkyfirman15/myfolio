@@ -148,7 +148,7 @@ const workExperiences = {
       // ]
     },
     {
-      role: "Entry Data",
+      role: "Webmaster",
       company: "Kejaksaan Tinggi Banten",
       companylogo: require("./assets/images/kejatiLogo.png"),
       date: "Sep 2020 – Oct 2020",
@@ -158,7 +158,7 @@ const workExperiences = {
       role: "IT Staff",
       company: "Global Indonesia School",
       companylogo: require("./assets/images/gisLogo.png"),
-      date: "Oct 2020 – Now",
+      date: "Oct 2020 – June 2021",
       // desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }
   ]
@@ -221,7 +221,7 @@ const achievementSection = {
       image: require("./assets/images/dtsLogo.png"),
       footerLink: [
         {
-          name: "Certification",
+          name: "Certificate",
           url: "https://drive.google.com/file/d/10zV_ALkheeWA3XO_vVcBwXUW9PSUDgib/view?usp=sharing"
         },
         {
@@ -237,7 +237,7 @@ const achievementSection = {
       image: require("./assets/images/sanberLogo.png"),
       footerLink: [
         {
-          name: "Certification",
+          name: "Certificate",
           url: "https://drive.google.com/file/d/12TTIwsyUgf1o493x5hFEcKf8lI5qIvov/view?usp=sharing"
         },
         {
@@ -248,17 +248,17 @@ const achievementSection = {
     },
 
     {
-      title: "Mikrotik Academy - MTCNA",
-      subtitle: "MikroTik Academy is a program prepared for the educational track, namely Polytechnic / University / Vocational School and the like to study MikroTik.",
+      title: "UI/UX Design Mastery - PROA",
+      subtitle: "The Professional Academy program aims to prepare for the transfer of Indonesian HR competencies by providing online training to working people in order to create a more adaptive and productive Indonesian workforce.",
       image: require("./assets/images/mikrotikLogo.png"),
       footerLink: [
         {
-          name: "Certification",
-          url: "https://drive.google.com/file/d/1iBpSXAZPUvpv2KRx_ID91n7ri3fARtPW/view?usp=sharing"
+          name: "Certificate",
+          url: "https://drive.google.com/file/d/1nQ1kGtLCnDLNwJvCiV0p5UDWxV-BeBvW/view?usp=sharing"
         },
         {
-          name: "Mikrotik Routers and Wireless",
-          url: "https://mikrotik.com/"
+          name: "Skilvul Challenge Partner",
+          url: "https://skilvul.com/"
         }
       ]
     }
