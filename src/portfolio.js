@@ -249,7 +249,7 @@ const achievementSection = {
 
     {
       title: "UI/UX Design Mastery - PROA",
-      subtitle: "The Professional Academy program aims to prepare for the transfer of Indonesian HR competencies by providing online training to working people in order to create a more adaptive and productive Indonesian workforce.",
+      subtitle: "The Professional Academy program aims to prepare for the transfer of Indonesian HR competencies. This program is organized by Kominfo.",
       image: require("./assets/images/skilvul.svg"),
       footerLink: [
         {
