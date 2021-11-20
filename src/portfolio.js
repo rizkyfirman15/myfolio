@@ -151,7 +151,7 @@ const workExperiences = {
       role: "Webmaster",
       company: "Kejaksaan Tinggi Banten",
       companylogo: require("./assets/images/kejatiLogo.png"),
-      date: "Sep 2020 – Oct 2020",
+      date: "Sep 2020 – Dec 2020",
       // desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
